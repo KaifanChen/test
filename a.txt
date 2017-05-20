@@ -1,0 +1,2 @@
+This is my first linux git repository.
+Thank you for GitHub to provide a useful website and tools of version control.
